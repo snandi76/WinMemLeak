@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/determining-whether-a-leak-exists
+
+https://docs.microsoft.com/en-us/windows/desktop/win7appqual/preventing-memory-leaks-in-windows-applications
+
+https://blogs.technet.microsoft.com/yongrhee/2011/12/19/how-to-troubleshoot-a-handle-leak/
